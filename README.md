@@ -17,6 +17,17 @@ My workflow integrates frontend development with design tooling to support UI cl
 
 ## 💻 Tech Stack
 
+### Design & Creative Tools (Supporting Skills)
+![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
+![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
+![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white)
+![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white)
+![Adobe Illustrator](https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=for-the-badge&logo=adobe%20illustrator&logoColor=white)
+![Adobe Premiere Pro](https://img.shields.io/badge/adobe%20premiere%20pro-9999FF.svg?style=for-the-badge&logo=adobe%20premiere%20pro&logoColor=white)
+![Adobe After Effects](https://img.shields.io/badge/adobe%20after%20effects-9999FF.svg?style=for-the-badge&logo=adobe%20after%20effects&logoColor=white)
+![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white)
+![Affinity Designer](https://img.shields.io/badge/affinity%20designer-%231B72BE.svg?style=for-the-badge&logo=affinity-designer&logoColor=white)
+
 ### Frontend Development
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
@@ -38,23 +49,12 @@ My workflow integrates frontend development with design tooling to support UI cl
 ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white)
 ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white)
 
-### Design & Creative Tools (Supporting Skills)
-![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
-![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
-![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white)
-![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white)
-![Adobe Illustrator](https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=for-the-badge&logo=adobe%20illustrator&logoColor=white)
-![Adobe Premiere Pro](https://img.shields.io/badge/adobe%20premiere%20pro-9999FF.svg?style=for-the-badge&logo=adobe%20premiere%20pro&logoColor=white)
-![Adobe After Effects](https://img.shields.io/badge/adobe%20after%20effects-9999FF.svg?style=for-the-badge&logo=adobe%20after%20effects&logoColor=white)
-![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white)
-![Affinity Designer](https://img.shields.io/badge/affinity%20designer-%231B72BE.svg?style=for-the-badge&logo=affinity-designer&logoColor=white)
-
 ---
 
 ## 📁 Portfolio
 
 🔗 **Live Portfolio:**  
-https://singhgagan-portfolio.vercel.app/
+**https://singhgagan-portfolio.vercel.app/**
 
 Projects include:
 - Defined problem statements and implementation approach  
