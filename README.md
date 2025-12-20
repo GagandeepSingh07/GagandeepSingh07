@@ -1,21 +1,71 @@
-# 💫 About Me:
-Entry-level developer building frontend projects with HTML and CSS and utility scripts in Python. Actively improving problem-solving and code quality through hands-on projects.
+# 👨‍💻 Gagandeep Singh
 
+## 💼 Professional Summary
 
-## 🌐 Socials:
-[![Behance](https://img.shields.io/badge/Behance-1769ff?logo=behance&logoColor=white)](https://behance.net/singhgagan07) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/@gagan.designs.07) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@@5ilence01) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:singhgagan40951@gmail.com) 
+Entry-level **Frontend Developer and Creative Technologist** focused on building responsive, accessible, and visually consistent web interfaces. Experienced in translating UI designs into clean, maintainable code using modern frontend tools. Actively developing projects to strengthen problem-solving ability, code quality, and deployment workflows.
 
-# 💻 Tech Stack:
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white) ![Adobe After Effects](https://img.shields.io/badge/Adobe%20After%20Effects-9999FF.svg?style=for-the-badge&logo=Adobe%20After%20Effects&logoColor=white) ![Adobe Audition](https://img.shields.io/badge/Adobe%20Audition-9999FF.svg?style=for-the-badge&logo=Adobe%20Audition&logoColor=white) ![Adobe Creative Cloud](https://img.shields.io/badge/Adobe%20Creative%20Cloud-DA1F26.svg?style=for-the-badge&logo=Adobe%20Creative%20Cloud&logoColor=white) ![Adobe Lightroom](https://img.shields.io/badge/Adobe%20Lightroom-31A8FF.svg?style=for-the-badge&logo=Adobe%20Lightroom&logoColor=white) ![Adobe Illustrator](https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=for-the-badge&logo=adobe%20illustrator&logoColor=white) ![Adobe Fonts](https://img.shields.io/badge/Adobe%20Fonts-000B1D.svg?style=for-the-badge&logo=Adobe%20Fonts&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white) ![Adobe Premiere Pro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF.svg?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=white) ![Affinity Designer](https://img.shields.io/badge/affinity%20desginer-%231B72BE.svg?style=for-the-badge&logo=affinity-designer&logoColor=white) ![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=GagandeepSingh07&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=GagandeepSingh07&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=GagandeepSingh07&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=GagandeepSingh07&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+Core experience includes static and dynamic frontend projects, Python utility scripts, and design-supported development using industry-standard tools.
 
 ---
-[![](https://visitcount.itsvg.in/api?id=GagandeepSingh07&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 🛠️ Technical Skills
+
+### Frontend Development
+- **Languages:** HTML5, CSS3, JavaScript  
+- **Frameworks & Libraries:** Tailwind CSS, Bootstrap  
+- **Version Control:** Git, GitHub  
+- **Deployment & Hosting:** Vercel, Netlify, Render  
+
+### Programming & Scripting
+- **Python:** Automation scripts and logical utilities  
+- **C++, Java, PHP:** Academic and foundational experience  
+
+### Design & Creative Tools (Supporting Skills)
+- Adobe Photoshop, Illustrator, Premiere Pro, After Effects  
+- Adobe Audition, Lightroom, Creative Cloud  
+- Figma, Canva, Affinity Designer  
+- Blender (basic 3D workflows)
+
+---
+
+## 📁 Portfolio
+
+🔗 **Live Portfolio:**  
+https://singhgagan-portfolio.vercel.app/
+
+Each project includes:
+- Clear problem definition  
+- Technology stack overview  
+- Live deployment (where applicable)  
+- Source code repository  
+
+Projects focus on frontend fundamentals, layout systems, responsive design, and practical implementation.
+
+---
+
+## 📊 GitHub Statistics
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=GagandeepSingh07&theme=dark&hide_border=false&include_all_commits=true)
+![GitHub Streak](https://nirzak-streak-stats.vercel.app/?user=GagandeepSingh07&theme=dark&hide_border=false)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=GagandeepSingh07&theme=dark&hide_border=false&layout=compact)
+
+---
+
+## 🏆 GitHub Trophies
+
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=GagandeepSingh07&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+
+---
+
+## 🌐 Connect With Me
+
+- **Portfolio:** https://singhgagan-portfolio.vercel.app/  
+- **GitHub:** https://github.com/GagandeepSingh07  
+- **Behance:** https://behance.net/singhgagan07  
+- **Instagram:** https://instagram.com/gagan.designs.07  
+- **YouTube:** https://youtube.com/@5ilence01  
+- **Email:** singhgagan40951@gmail.com  
+
+---
+
+![Profile Views](https://visitcount.itsvg.in/api?id=GagandeepSingh07&icon=0&color=0)
