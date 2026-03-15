@@ -43,7 +43,7 @@
 
 <p align="left">
 <img src="https://skillicons.dev/icons?i=git,github,vercel,netlify,vscode" />
-<img src="https://cdn.simpleicons.org/render/46E3B7" height="40" style="vertical-align:middle;margin-left:6px;background:#1e293b;border-radius:8px;padding:6px;" />
+<img src="https://cdn.simpleicons.org/render/46E3B7" height="36" style="vertical-align:start;margin-left:8px;background:#1e293b;border-radius:8px;padding:6px;" />
 </p>
 
 ### Design Tools
