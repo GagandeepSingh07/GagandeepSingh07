@@ -74,7 +74,7 @@ Projects include:
 
 ## 🏆 GitHub Trophies
 
-![](https://github-profile-trophy.vercel.app/?username=GagandeepSingh07&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+![trophy](https://github-profile-trophy.vercel.app/?username=GagandeepSingh07&theme=radical&row=1&column=7&margin-w=10)
 
 ---
 
