@@ -74,8 +74,8 @@ Projects include:
 
 ## 🏆 GitHub Trophies
 
-![trophy](https://github-profile-trophy.vercel.app/?username=GagandeepSingh07&theme=radical&row=1&column=7&margin-w=10)
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=GagandeepSingh07&theme=algolia&no-frame=true&margin-w=15)
 
 ---
 
-![Profile Views](https://visitcount.itsvg.in/api?id=GagandeepSingh07&icon=0&color=0)
+![Profile Views](https://komarev.com/ghpvc/?username=GagandeepSingh07&label=Profile%20views&color=0e75b6&style=flat)
