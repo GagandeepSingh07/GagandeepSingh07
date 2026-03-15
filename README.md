@@ -74,7 +74,7 @@ Projects include:
 
 ## 🏆 GitHub Trophies
 
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=GagandeepSingh07&theme=algolia&no-frame=true&margin-w=15)
+![trophy](https://github-profile-trophy-git-master-rsywx.vercel.app/?username=GagandeepSingh07&theme=algolia&no-frame=true&margin-w=10)
 
 ---
 
