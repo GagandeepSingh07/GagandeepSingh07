@@ -110,7 +110,7 @@ Projects include:
 <p>
 <a href="https://behance.net/singhgagan07">Behance</a> •
 <a href="https://instagram.com/gagan.designs.07">Instagram</a> •
-<a href="https://youtube.com/@5ilence01">YouTube</a> •
+<a href="https://www.youtube.com/@TheGhostByteGaming">YouTube</a> •
 <a href="mailto:singhgagan40951@gmail.com">Email</a>
 </p>
 
